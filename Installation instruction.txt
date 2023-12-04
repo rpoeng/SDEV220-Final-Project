@@ -1,0 +1,19 @@
+When downloading this repository, you will need to install Django version 4.2.7
+
+on your terminal type the following commands without qoutes
+
+"pip install Django==4.2.7"
+
+then to create a venv and project type in the terminal 
+
+"django-admin startproject "filename"
+
+then put the repository in the directory of the project folder. 
+
+once everything is in place.
+
+type the following in the terminal
+
+"python manage.py runserver"
+
+this will boot up the prototype website on your pc.
